@@ -1,0 +1,4 @@
+hello world
+hello spark
+apache spark is fast
+big data is the future
