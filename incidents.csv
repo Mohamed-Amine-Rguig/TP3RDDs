@@ -1,0 +1,101 @@
+Id,titre,Description,service,date
+1,Chute employé,Produits non conformes,Logistique,2025-08-04
+2,Matériel manquant,Produits non conformes,Informatique,2023-08-22
+3,Alarme incendie,Coupure de courant,Achat,2025-03-23
+4,Erreur informatique,Manque de pièces détachées,Maintenance,2025-10-14
+5,Fuite d'eau,Déclenchement accidentel de l’alarme,Sécurité,2023-10-16
+6,Matériel manquant,Employé blessé,Qualité,2022-03-04
+7,Alarme incendie,Le logiciel s'est bloqué,Informatique,2023-02-07
+8,Fuite d'eau,Fuite au niveau de la canalisation,Sécurité,2024-03-05
+9,Retard livraison,Produits non conformes,Achat,2024-01-25
+10,Fuite d'eau,Retard dans la livraison,Logistique,2023-09-22
+11,Retard livraison,Déclenchement accidentel de l’alarme,Qualité,2025-11-27
+12,Incident électrique,Employé blessé,Logistique,2025-05-02
+13,Problème qualité,Employé blessé,Informatique,2025-07-13
+14,Panne machine,Employé blessé,Production,2023-04-17
+15,Fuite d'eau,Problème de connexion réseau,Qualité,2024-01-11
+16,Panne machine,Déclenchement accidentel de l’alarme,Logistique,2023-07-11
+17,Retard livraison,Coupure de courant,Qualité,2024-06-25
+18,Retard livraison,Fuite au niveau de la canalisation,Maintenance,2025-10-17
+19,Alarme incendie,Coupure de courant,Maintenance,2025-11-11
+20,Erreur informatique,Employé blessé,Logistique,2022-12-06
+21,Fuite d'eau,Fuite au niveau de la canalisation,Informatique,2024-02-24
+22,Chute employé,Produits non conformes,Production,2022-08-05
+23,Matériel manquant,Employé blessé,Informatique,2023-03-14
+24,Fuite d'eau,Employé blessé,Informatique,2022-08-06
+25,Chute employé,Coupure de courant,Sécurité,2025-03-20
+26,Alarme incendie,Employé blessé,Achat,2022-05-28
+27,Matériel manquant,Produits non conformes,Production,2024-08-18
+28,Alarme incendie,Problème de connexion réseau,Informatique,2025-05-26
+29,Alarme incendie,Coupure de courant,Informatique,2023-01-25
+30,Erreur informatique,Coupure de courant,Sécurité,2025-11-14
+31,Erreur informatique,Panne sur la ligne de production,Achat,2024-04-07
+32,Matériel manquant,Produits non conformes,Production,2024-12-31
+33,Fuite d'eau,Le logiciel s'est bloqué,Maintenance,2025-06-12
+34,Panne machine,Fuite au niveau de la canalisation,Qualité,2024-07-24
+35,Chute employé,Problème de connexion réseau,Sécurité,2025-11-02
+36,Chute employé,Manque de pièces détachées,Achat,2022-08-17
+37,Incident électrique,Coupure de courant,Qualité,2023-04-27
+38,Alarme incendie,Problème de connexion réseau,Achat,2022-06-03
+39,Matériel manquant,Produits non conformes,Logistique,2025-02-07
+40,Retard livraison,Fuite au niveau de la canalisation,Informatique,2022-04-25
+41,Alarme incendie,Fuite au niveau de la canalisation,Logistique,2025-10-28
+42,Alarme incendie,Retard dans la livraison,Sécurité,2025-08-14
+43,Incident électrique,Coupure de courant,Production,2024-11-28
+44,Matériel manquant,Fuite au niveau de la canalisation,Qualité,2023-05-28
+45,Incident électrique,Retard dans la livraison,Sécurité,2024-01-04
+46,Erreur informatique,Retard dans la livraison,Logistique,2024-05-19
+47,Panne machine,Fuite au niveau de la canalisation,Sécurité,2022-06-06
+48,Erreur informatique,Coupure de courant,Production,2023-07-04
+49,Alarme incendie,Employé blessé,Achat,2023-11-06
+50,Fuite d'eau,Panne sur la ligne de production,Production,2023-05-07
+51,Incident électrique,Déclenchement accidentel de l’alarme,Sécurité,2024-08-06
+52,Alarme incendie,Fuite au niveau de la canalisation,Logistique,2024-09-21
+53,Fuite d'eau,Retard dans la livraison,Sécurité,2025-11-19
+54,Fuite d'eau,Panne sur la ligne de production,Achat,2022-11-14
+55,Panne machine,Coupure de courant,Maintenance,2024-05-08
+56,Fuite d'eau,Produits non conformes,Maintenance,2024-01-12
+57,Panne machine,Panne sur la ligne de production,Achat,2023-11-19
+58,Défaillance réseau,Déclenchement accidentel de l’alarme,Production,2025-09-06
+59,Matériel manquant,Fuite au niveau de la canalisation,Maintenance,2024-03-20
+60,Fuite d'eau,Manque de pièces détachées,Informatique,2023-02-09
+61,Défaillance réseau,Le logiciel s'est bloqué,Production,2022-04-07
+62,Chute employé,Produits non conformes,Production,2025-06-04
+63,Alarme incendie,Fuite au niveau de la canalisation,Qualité,2025-11-27
+64,Défaillance réseau,Coupure de courant,Informatique,2024-05-02
+65,Retard livraison,Produits non conformes,Sécurité,2025-11-23
+66,Alarme incendie,Le logiciel s'est bloqué,Qualité,2022-01-22
+67,Incident électrique,Panne sur la ligne de production,Sécurité,2022-05-25
+68,Erreur informatique,Le logiciel s'est bloqué,Informatique,2025-01-23
+69,Chute employé,Manque de pièces détachées,Production,2025-07-29
+70,Alarme incendie,Produits non conformes,Qualité,2023-09-12
+71,Erreur informatique,Panne sur la ligne de production,Logistique,2025-01-08
+72,Défaillance réseau,Déclenchement accidentel de l’alarme,Sécurité,2025-07-05
+73,Chute employé,Manque de pièces détachées,Qualité,2025-05-04
+74,Retard livraison,Problème de connexion réseau,Sécurité,2024-11-03
+75,Matériel manquant,Le logiciel s'est bloqué,Achat,2024-08-29
+76,Panne machine,Produits non conformes,Qualité,2022-01-02
+77,Fuite d'eau,Retard dans la livraison,Qualité,2024-08-08
+78,Panne machine,Employé blessé,Informatique,2024-02-06
+79,Erreur informatique,Coupure de courant,Sécurité,2025-07-10
+80,Problème qualité,Retard dans la livraison,Achat,2025-09-09
+81,Matériel manquant,Retard dans la livraison,Achat,2023-06-02
+82,Alarme incendie,Le logiciel s'est bloqué,Qualité,2023-01-14
+83,Matériel manquant,Problème de connexion réseau,Qualité,2025-02-08
+84,Défaillance réseau,Fuite au niveau de la canalisation,Production,2023-05-21
+85,Alarme incendie,Coupure de courant,Qualité,2024-12-29
+86,Retard livraison,Le logiciel s'est bloqué,Maintenance,2025-09-14
+87,Incident électrique,Produits non conformes,Logistique,2022-04-08
+88,Alarme incendie,Problème de connexion réseau,Production,2022-10-24
+89,Défaillance réseau,Déclenchement accidentel de l’alarme,Logistique,2025-11-25
+90,Panne machine,Le logiciel s'est bloqué,Logistique,2024-05-31
+91,Fuite d'eau,Manque de pièces détachées,Qualité,2022-12-11
+92,Erreur informatique,Produits non conformes,Achat,2023-01-06
+93,Problème qualité,Employé blessé,Achat,2025-06-01
+94,Panne machine,Panne sur la ligne de production,Logistique,2022-08-10
+95,Retard livraison,Manque de pièces détachées,Sécurité,2025-06-01
+96,Problème qualité,Panne sur la ligne de production,Sécurité,2024-04-23
+97,Défaillance réseau,Coupure de courant,Achat,2023-11-27
+98,Fuite d'eau,Le logiciel s'est bloqué,Production,2022-05-22
+99,Défaillance réseau,Problème de connexion réseau,Informatique,2022-05-05
+100,Panne machine,Coupure de courant,Production,2023-05-13
